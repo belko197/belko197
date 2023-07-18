@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @belko197
-- 👀 I’m interested in everything about technology.
+- 👀 I’m interested in everything about technology and languages.
 
 <!---
 belko197/belko197 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
