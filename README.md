@@ -4,4 +4,4 @@ let me introduce myself  :
 - all you have TO DO is to bet a flop keep beting and fold if they raise
 - poker is the best profi sport !!!
 - i seek my inner peace in every moment during this life
-- thank you for your invitation to github 
+- thank you for your invitation to github
