@@ -5,5 +5,4 @@ let me introduce myself  :
 - poker is the best profi sport !!!
 - i seek my inner peace in every moment during this life
 - thank you for your invitation to github
-
-9
+- and welcome/wilkomen
