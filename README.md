@@ -6,3 +6,4 @@ let me introduce myself  :
 - i seek my inner peace in every moment during this life
 - thank you for your invitation to github
 - and welcome/wilkomen
+- CODE 55% FASTER WITH GITHUB COPILOT 
