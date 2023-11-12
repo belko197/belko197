@@ -8,3 +8,4 @@ let me introduce myself  :
 - and welcome/wilkomen
 - CODE 55% FASTER WITH GITHUB COPILOT 
 - i forgott something about anything 
+or dont forgot 
