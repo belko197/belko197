@@ -10,3 +10,4 @@ let me introduce myself  :
 - i forgott something about anything 
 or dont forgot 
 to me 
+or my github 
