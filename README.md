@@ -7,4 +7,3 @@ let me introduce myself  :
 - thank you for your invitation to github
 - and welcome/wilkomen
 - CODE 55% FASTER WITH GITHUB COPILO
-- code 30% faster with me GITHUB w ME 
